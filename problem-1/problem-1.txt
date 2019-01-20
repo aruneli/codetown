@@ -1,0 +1,12 @@
+The challenge is to be programmed in your language of choice (Python or Go). The invocation should be as follows:
+
+./stock-optimizer aapl
+
+And return the optimal purchase and sell dates for the given stock (aapl, in this example):
+
+Buy: 10/26
+Sell: 11/23
+
+The data should be based on the past 1 month as given by this free API: https://iextrading.com/developer/docs/#chart
+
+Make sure to optimize as much as possible,
